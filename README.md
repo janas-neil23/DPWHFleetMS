@@ -1,2 +1,4 @@
-# DPWHFleetMS
+# DPWH Fleet MS Project (SQL Server <> Power BI Integration)
 This repository contains the development resources for a Fleet Management System that leverages SQL Server for data warehousing and Power BI for business intelligence and data visualization.
+
+## Features
